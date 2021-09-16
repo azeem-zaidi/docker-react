@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          React App on Docker by Docker-Compose! 8080
+          React Testing 2 App on Docker by Docker-Compose!
         </p>
         <a
           className="App-link"
